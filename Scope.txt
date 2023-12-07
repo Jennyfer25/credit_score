@@ -1,4 +1,4 @@
-Great, with the structured data in a PostgreSQL database, a global scale focus primarily in Nigeria and some other African countries, considering all legal and regulatory constraints, and using Python as the programming language, here's how you can refine the scope for creating the Credit Score ML model:
+Scope for creating the Credit Score ML model:
 
 ### 1. **Data Extraction:**
    - Establish a connection to the PostgreSQL database to extract structured data efficiently.
